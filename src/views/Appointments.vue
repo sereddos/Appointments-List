@@ -1,6 +1,9 @@
 <template>
   <div class="home">
-    <h1>Appointments List</h1>
+    <div class="d-flex justify-content-between align-items-center mb-3">
+      <h1>Appointments List</h1>
+      <b-button to="/make-appointments" class="h-25" variant="primary">Make Appointments</b-button>
+    </div>
     <table class="table">
       <thead>
         <tr>

@@ -39,6 +39,7 @@
 
             <!-- Next button -->
             <b-button-group class="mt-2">
+              <b-button variant="primary" to="/">Back</b-button>
               <b-button @click="nextTab">Next</b-button>
             </b-button-group>
 
