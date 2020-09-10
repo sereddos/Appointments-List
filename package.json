@@ -31,9 +31,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
-    "vue-template-compiler": "^2.6.11",
-    "vuejs-datepicker": "^1.6.2",
-    "vuelidate": "^0.7.5"
+    "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
     "root": true,
