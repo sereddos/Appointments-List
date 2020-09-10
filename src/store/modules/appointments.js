@@ -1,6 +1,6 @@
 export default {
   actions: {
-    // Вытаскиваем встрчечи из localStorage
+    // Вытаскиваем встречи из localStorage
     async fetchAppointments (context) {
       if (localStorage.getItem('appointments')) {
         try {
