@@ -1,11 +1,5 @@
 <template>
   <div id="app" class="container mt-4">
-    <!--
-    <div id="nav">
-      <router-link to="/">Appointments</router-link> |
-      <router-link to="/make-appointments">Make Appointments</router-link>
-    </div>
-    -->
     <router-view/>
   </div>
 </template>
